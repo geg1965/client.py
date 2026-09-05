@@ -1,4 +1,4 @@
-"""Deebot DEEBOT T50 OMNI Capabilities."""
+"""Deebot DEEBOT T50 PRO Omni Gen3 Capabilities."""
 
 from __future__ import annotations
 
